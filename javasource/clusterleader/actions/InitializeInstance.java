@@ -11,7 +11,6 @@ package clusterleader.actions;
 
 import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
-
 import com.mendix.core.Core;
 import com.mendix.systemwideinterfaces.core.IContext;
 import com.mendix.webui.CustomJavaAction;

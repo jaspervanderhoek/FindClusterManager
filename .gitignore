@@ -1,0 +1,16 @@
+deployment/*
+javasource/*/proxies/*
+javasource/appcloudservices/
+javasource/system/
+javasource/mxmodelreflection/
+javasource/core/
+javasource/com/
+theme/*
+
+.mendix-cache/*
+.classpath
+.project
+*.launch
+*.tmp
+*.lock
+*.bak
